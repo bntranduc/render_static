@@ -1,1 +1,1 @@
-# render_static
+# exo_cloud_static
